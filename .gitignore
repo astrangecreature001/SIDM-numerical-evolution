@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.npz
+*.npy
+*.jsonl
+*.log
+*.tmp
+outputs/
+checkpoints/
+snapshots/
+registry/
+.venv/
+venv/
